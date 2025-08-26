@@ -1,0 +1,8 @@
+# Query: \n<img src="./img/logo.png" alt="">
+# Flags: IgnoreExcludeSettings
+# Including: <img src="./img/logo.png" alt="">
+# Excluding: home<img src="./img/logo.png" alt="">
+# ContextLines: 1
+
+No Results
+<img src="./img/logo.png" alt="">
